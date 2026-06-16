@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1512-number-of-good-pairs](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -54,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 ## Union-Find
 |  |
@@ -92,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
