@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0217-contains-duplicate) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0217-contains-duplicate) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
