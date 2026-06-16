@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0202-happy-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1512-number-of-good-pairs](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1512-number-of-good-pairs](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Sorting
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [1512-number-of-good-pairs](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 ## Quickselect
 |  |
 | ------- |
