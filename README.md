@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0136-single-number) |
@@ -137,5 +138,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
