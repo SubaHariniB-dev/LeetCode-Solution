@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1512-number-of-good-pairs](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Union-Find
 |  |
 | ------- |
