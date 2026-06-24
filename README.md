@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Geometry
 |  |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
