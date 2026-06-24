@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0078-subsets) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
