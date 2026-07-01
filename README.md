@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -167,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
