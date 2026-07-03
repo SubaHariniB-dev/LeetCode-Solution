@@ -182,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0733-flood-fill) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
