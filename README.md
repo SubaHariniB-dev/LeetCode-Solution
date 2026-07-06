@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0202-happy-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0045-jump-game-ii) |
