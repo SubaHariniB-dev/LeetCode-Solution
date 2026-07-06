@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0511-game-play-analysis-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
