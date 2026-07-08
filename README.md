@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -206,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
