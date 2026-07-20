@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
