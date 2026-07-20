@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Trie
 |  |
 | ------- |
