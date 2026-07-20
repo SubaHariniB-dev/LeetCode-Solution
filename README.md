@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0704-binary-search) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SubaHariniB-dev/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
